@@ -1,0 +1,9 @@
+wwwroot/*.js
+node_modules
+typings
+dist
+
+node_modules
+git_push.sh
+generate-sdk-git-push.sh
+.npmrc

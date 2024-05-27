@@ -1,0 +1,5 @@
+# empty npmignore to ensure all required files (e.g., in the dist folder) are published by npm
+node_modules
+git_push.sh
+generate-sdk-git-push.sh
+.npmrc
